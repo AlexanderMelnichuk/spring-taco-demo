@@ -15,6 +15,7 @@ div.ingredient-group {
 
 img.logo {
     width: 360px;
+    display: block;
 }
 
 .grid:after {

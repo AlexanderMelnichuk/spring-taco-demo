@@ -1,4 +1,4 @@
-package tacos;
+package tacos.dto;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
